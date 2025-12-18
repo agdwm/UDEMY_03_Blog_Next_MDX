@@ -70,7 +70,7 @@ npm --version
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/agdwm/UDEMY_03_Blog_Next_MDX
 cd UDEMY_03_Blog_Next_MDX
 ```
 
